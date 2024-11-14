@@ -1,2 +1,3 @@
-deletei a pasta cache antes e att json , mesmo erro
-Att
+Projeto Landing page para entrega de Exercicio M22 - EBAC
+
+publicado em : https://entrega-m22.vercel.app/
